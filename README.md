@@ -1,4 +1,4 @@
-Copyright (c) 2023, KAIST
+**Copyright (c) 2023, KAIST**
 
 # FabricNetwork-2.x
 
