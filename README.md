@@ -1,3 +1,5 @@
+Copyright (c) 2023, KAIST
+
 # FabricNetwork-2.x
 
 Network Topology
@@ -36,3 +38,6 @@ Steps:
 9) Register User using API
 10) Invoke Chaincode Transaction
 11) Query Chaincode Transaction
+------------------------------------------------------------------------------------------------------------------------------------
+refer the following citation if you use the code:
+Bayounis, F., Dehlavi, S., Azimudin, A., Alghamdi, T., & Akremi, A. (2023). Trusted and Transparent Blockchain-based Land Registration System. IJCSNS, ResearchGate, 23(10), 214-224.
